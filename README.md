@@ -69,13 +69,13 @@ A powerful web application built with Streamlit and Groq API that automatically 
 
 Install dependencies:
 
-```bash
+```python
 pip install -r requirements.txt
 ```
 
 **Requirements.txt**
 
-```
+```python
 streamlit
 groq
 python-dotenv
@@ -83,7 +83,7 @@ python-dotenv
 
 Set up environment variables:
 
-```bash
+```python
 GROQ_API_KEY=your_api_key_here
 ```
 
